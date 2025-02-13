@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm currently studying Maths and Physics at UCL, and I'm currently working on a machine learning project classifying neutrino interactions using images from the NOvA experiment.
 <!--
 **moistgooseberry/moistgooseberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
